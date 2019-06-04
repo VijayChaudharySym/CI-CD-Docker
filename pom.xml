@@ -35,6 +35,14 @@
             <version>2.7.1</version>
             <type>maven-plugin</type>
         </dependency>
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-parent -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>1.5.8.RELEASE</version>
+    <type>pom</type>
+</dependency>
+             
     </dependencies>
 
     <build>
